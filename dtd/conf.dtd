@@ -1,0 +1,6 @@
+<?xml version='1.0' encoding="UTF-8"?>
+<!ELEMENT conf (entry*)>
+<!ATTLIST conf type  NMTOKEN #FIXED "general">
+<!ELEMENT entry (#PCDATA)>
+<!ATTLIST entry name (nat|query) #REQUIRED>
+

@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<query type="firewall">
+  <option name="nat">off</option>
+  <field name="date">Nov 29</field>
+  <field name="btime">10:00:00</field>
+  <field name="etime">10:00:00</field>
+</query>
+
+

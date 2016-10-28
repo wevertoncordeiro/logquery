@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!ELEMENT result (entry)*>
+<!ATTLIST result type (firewall|dns|error) #REQUIRED>
+<!ELEMENT entry (#PCDATA)>
+<!ATTLIST entry date CDATA #IMPLIED>
+<!ATTLIST entry time CDATA #IMPLIED>
+<!ATTLIST entry src CDATA #IMPLIED>
+<!ATTLIST entry dst CDATA #IMPLIED>
+<!ATTLIST entry proto CDATA #IMPLIED>
+<!ATTLIST entry spt CDATA #IMPLIED>
+<!ATTLIST entry dpt CDATA #IMPLIED>
+<!ATTLIST entry client CDATA #IMPLIED>
+<!ATTLIST entry query CDATA #IMPLIED>
+<!ATTLIST entry error CDATA #IMPLIED>
+<!ATTLIST entry message CDATA #IMPLIED>
+

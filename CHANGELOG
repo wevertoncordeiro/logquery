@@ -1,0 +1,10 @@
+
+Mon.	Jan 30, 2006.  wevertoncordeiro@acm.org. Summary for 0.02 logquery
+	Fixed bug concerning pid file.
+
+Wed.	Nov 23, 2005.  wevertoncordeiro@acm.org. Summary for 0.02 logquery
+			
+	Fixed bug concerning -k
+	Added 'drop user privileges' feature
+	Added config.php file
+	Added 'setpriority' feature

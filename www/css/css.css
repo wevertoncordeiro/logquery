@@ -1,0 +1,139 @@
+body {
+  font-family:Verdana, Helvetica, Arial, sans-serif;
+  font-size:11px;
+  background-color:#FFFFFF;
+  color:black;
+  scrollbar-base-color:#cecece;
+  scrollbar-arrow-color:#666666;
+}
+
+html {
+  scrollbar-base-color:#cecece;
+  scrollbar-arrow-color:#666666;
+}
+
+input{
+  font-family:Verdana, Helvetica, Arial, sans-serif;
+  font-size:11px;
+}
+
+select {
+  font-family:Verdana, Helvetica, Arial, sans-serif;
+  font-size:11px;
+}
+
+form{
+  margin:0px;
+}
+
+a{
+color:#333399;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;text-decoration:none;}
+a:hover{color:red;text-decoration:underline;}
+a.menuitem{color:#eeeeff;font-family:Verdana,Helvetica,sans-serif;font-size:11px;font-weight:normal;}
+a.menuitem:hover{color:blue;}
+a.helpitem{color:#cccccc;font-family:Verdana,Helvetica,sans-serif;font-size:11px;font-weight:normal;}
+a.helplink{color:white;background-color:#444466;font-family:Verdana,Helvetica,sans-serif;text-decoration:underline;}
+a.helplink:hover{color:blue;}
+a.widget{color:#000000;font-family:Verdana,Helvetica,sans-serif;font-size:11px;}
+a.widget:hover{color:blue;}
+.outline{background-color:black;}
+.menu{color:white;background-color:#0064BC;font-family:Verdana,Helvetica,sans-serif;}
+.header{color:white;background-color:#0064BC;font-family:Verdana,Helvetica,sans-serif;font-weight:bold;font-size:11px;}
+a.header:hover{color:white;}
+.light{color:black;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;}
+.smallheader{color:#ccccee;background-color:#0064BC;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;}
+a.smallheader:hover{color:white;}
+.small{color:#aaaacc;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:11px;}
+.legend{color:#999999;font-family:Verdana, Helvetica, Arial, sans-serif;font-size:10px;}
+.control{color:black;background-color:#e9e9e9;}
+.item {color:black;background-color:#cccccc;}
+.button {
+  color:white;
+  background-color:#0033cc;
+  border-bottom:2px solid RGB(0,0,0);
+  border-right:2px solid RGB(0,0,0);
+  border-top:2px solid RGB(122,162,254);
+  border-left:2px solid RGB(122,162,254);
+  font-size:11px;
+  font-family:Verdana,Helvetica,sans-serif;font-weight:normal;
+}
+.selected{background-color:#999999;}
+.text{color:black;background-color:white;}
+.item0{background-color:#f3f3f3;}
+.item1{background-color:#e9e9e9;}
+.fixed{
+  font-size:11px;
+  font-family:Verdana,Helvetica,sans-serif;
+  border-bottom:1px solid #333399;
+  border-right:1px solid #333399;
+  border-top:1px solid #333399;
+  border-left:1px solid #333399;
+}
+td {
+  font-size:11px;
+  font-family:Verdana, Helvetica, Arial, sans-serif;
+}
+
+th{
+  font-size:11px;
+  font-family:Verdana, Helvetica, Arial, sans-serif;
+}
+
+.list{
+  background-color:#f0f0ff;
+}
+
+.listlt{background-color:#ffffff;}
+.signature{color:#cccccc;}
+.signature-fixed{color:#cccccc;font-size:13px;font-family:monospace, fixed;}
+.quoted1{color:#660066;}
+.quoted2{color:#007777;}
+.quoted3{color:#990000;}
+.quoted4{color:#000099;}
+.quoted5{color:#bb6600;}
+.legenda{
+  color:#999999;
+  background-color:#FFFFFF;
+  border-bottom:1px solid #CCCCCC;
+  border-right:1px solid #CCCCCC;
+  border-top:1px solid #CCCCCC;
+  border-left:1px solid #CCCCCC;
+  font-size:10px;
+  font-family:Verdana,Helvetica,sans-serif;font-weight:normal;
+}
+
+.mensagem{
+  color:#000000;
+  background-color:#ffffcc;
+  border-bottom:1px solid #ffcc00;
+  border-right:1px solid #ffcc00;
+  border-top:1px solid #ffcc00;
+  border-left:1px solid #ffcc00;
+  font-size:10px;
+  font-family:Verdana,Helvetica,sans-serif;
+  font-weight:normal;
+}
+.link-branco-10{
+  FONT-SIZE:10px;
+  COLOR:#ffffff;
+  FONT-FAMILY:Verdana, Arial, Helvetica, sans-serif;
+  TEXT-DECORATION:none;
+}
+a.link-branco-10:hover{
+  color:white;TEXT-DECORATION:none;
+}
+.deleted{
+  background-color:#999999;
+}
+.deleted-hi{background-color:#777777;}
+.important{background-color:#ffcccc;}
+.important-hi{background-color:#ffaaaa;}
+.unseen{background-color:#DDEEFF;}
+.unseen-hi{background-color:#e9e9e9;}
+.answered{background-color:#ffffcc;}
+.answered-hi{background-color:#e9e9e9;}
+.text-hi{background-color:#e5e5e5;}
+.folderunsub{background-color:#bbccdd;font-style:italic;}
+.quotawarn{color:black;background-color:yellow;}
+.quotaalert{color:white;background-color:red;} 
+
